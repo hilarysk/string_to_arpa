@@ -1,3 +1,64 @@
+
+#[^\r\nA-Z.'-](G) 
+###AW Raʊr
+###IH R  or IY Rɪr
+###AA Rɑr
+###AO Rɔr
+###UH Rʊr
+###EH Rɛr
+###AXRɚ
+###ERɝ	
+###AH1ʌ
+###AHʌ 
+###AH0ə
+###AZə
+###Qʔ
+###ENGŋ̍
+###EYeɪ
+###AYaɪ
+###OWoʊ
+###AWaʊ
+###UWu
+###OYɔɪ
+###AOɔ	
+###AAɑ	
+###IYi	
+###EHɛ	
+##IHɪ	
+###UHʊ	
+###AEæ 
+###JHdʒ
+##CHtʃ
+## DHð
+## THθ
+###HHh
+## ZHʒ
+##SHʃ
+###EMm̩
+## NGŋ
+###ENn̩
+###ELɫ̩
+## NXɾ̃
+## DXɾ
+###Ww
+###Yj
+###Rr
+###Lɫ
+###Nn
+###Mm
+###Zz
+###Ss
+###Vv
+###Ff
+###Pp
+###Bb
+###Tt
+##Dd
+##Kk
+##Gɡ
+##1ˈ
+##2ˌ
+
 AABERG  AA1 B ER0 G
 AACHEN  AA1 K AH0 N
 AACHENER  AA1 K AH0 N ER0
