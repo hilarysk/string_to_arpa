@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install string_to_ipa
+    $ gem install string_to_arpa
 
 ## Usage
 

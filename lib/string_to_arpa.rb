@@ -1,7 +1,7 @@
-require "string_to_ipa/version"
+require "string_to_arpa/version"
 require "sqlite3"
 
-module StringToIpa
+module StringToArpa
   DATABASE = SQLite3::Database.new("arpagem.db")
 
   DATABASE.results_as_hash = true
@@ -52,7 +52,7 @@ module StringToIpa
     
       self.new(result)
     end
-
+  end
 end
 
 class String
