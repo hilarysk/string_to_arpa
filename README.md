@@ -1,13 +1,13 @@
-# StringToIpa
+# StringToArpa
 
-A simple little Ruby gem that converts strings to the International Phonetic Alphabet. 
+A simple little Ruby gem that converts strings to [Arpabet](http://en.wikipedia.org/wiki/Arpabet). 
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'string_to_ipa'
+gem 'string_to_arpa'
 ```
 
 And then execute:
@@ -20,17 +20,17 @@ Or install it yourself as:
 
 ## Usage
 
-To convert a string to the International Phonetic Alphabet:
+To convert a string to Arpabet:
 
 ```ruby
-"yay".to_ipa
+"yay".to_arpa
 => "jˈeɪ" 
 ```
-If the string isn't in the database, calling `.to_ipa` simply returns the original string.
+If the string isn't in the database, calling `.to_arpa` simply returns the original string.
 
 ## Contributing
 
-1. Fork it ( https://github.com/hilarysk/string_to_ipa/fork )
+1. Fork it ( https://github.com/hilarysk/string_to_arpa/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

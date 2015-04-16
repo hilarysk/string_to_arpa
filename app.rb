@@ -1,1 +1,1 @@
-require "string_to_ipa"
+require "string_to_arpa"
