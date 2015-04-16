@@ -24,7 +24,7 @@ To convert a string to Arpabet:
 
 ```ruby
 "yay".to_arpa
-=> "jˈeɪ" 
+=> "Y EY1" 
 ```
 If the string isn't in the database, calling `.to_arpa` simply returns the original string.
 
