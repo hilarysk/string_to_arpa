@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["hilarysk@gmail.com"]
   
   spec.summary       = %q{A minimalist gem that converts a string to Arpabet.}
-  spec.description   = %q{This gem relies on a modified version of the open-source Carnegie Mellon University Pronouncing Dictionary.}
+  spec.description   = %q{This gem converts strings to Arpabet, a phonetic transcription code used in several speech synthesizers.}
   spec.homepage      = "https://github.com/hilarysk/string_to_arpa"
   spec.license       = "MIT"
 
