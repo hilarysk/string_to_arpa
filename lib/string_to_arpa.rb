@@ -2,7 +2,7 @@ require "string_to_arpa/version"
 require "sqlite3"
 
 module StringToArpa
-  DATABASE = SQLite3::Database.new("arpagem.db")
+  DATABASE = SQLite3::Database.new(File.join(File.expand_path(File.dirname(__FILE__)), "..", "arpagem.db")
 
   DATABASE.results_as_hash = true
   DATABASE.execute( "PRAGMA encoding = \"UTF-16\"" );
